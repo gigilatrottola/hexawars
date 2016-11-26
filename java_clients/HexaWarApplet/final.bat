@@ -1,0 +1,14 @@
+@echo off
+echo .
+echo .
+echo abcdef
+echo .
+echo .
+call obfuscate.bat
+cd dist
+del HexaWarApplet.jar
+cd ..
+call sign.bat
+cd dist
+del HexaWarApp.jar
+cd ..
