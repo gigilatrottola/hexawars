@@ -1,0 +1,104 @@
+TABLE.papir
+{
+	width : 100%;
+	border: 0;
+	border-collapse: collapse;
+	empty-cells : show;
+	float: left;
+}
+TD.papir1
+{
+	background-color : 330500;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #CCCCCC;
+}
+TD.papir1a
+{
+	background-color : 330500;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #FF6600;
+}
+TD.papir2
+{
+	background-color : 3E0600;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #CCCCCC;
+}
+TD.papir2a
+{
+	background-color : 3E0600;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #FF6600;
+}
+TD.papircim1
+{
+	background-color : 330500;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #CCCCCC;
+}
+TD.papircim2
+{
+	background-color : 440600;
+	border: 0 ;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+	padding-bottom: 5;
+	text-align : left;
+	vertical-align : baseline;
+	color: #CCCCCC;
+}
+
+body {
+	color: #FF6600;
+}
+
+a:link, a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFBE00;
+	text-decoration: none;
+}
+
+a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFCE00;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CD0000;
+	text-decoration: none;
+}

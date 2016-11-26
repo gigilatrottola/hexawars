@@ -1,0 +1,8 @@
+MIDlet-1: HexaWars,/icon.png,HexaWars.HexaWars
+MIDlet-Jar-Size: 54969
+MIDlet-Jar-URL: HexaWars_S40_EN.jar
+MIDlet-Name: HexaWars
+MIDlet-Vendor: OneBitHeroes
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
